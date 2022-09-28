@@ -13,7 +13,7 @@ command&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/usr/bin/find
 
 
 ## Getting Started
-Perform the following steps to run this on local
+Perform the following steps to run this application on local machine.
 
 ### Dependencies
 Following dependencies must be installed.
